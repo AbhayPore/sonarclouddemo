@@ -17,7 +17,7 @@
 		<java.version>11</java.version>
   		<sonar.organization>abhaypore</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<test>hello<test>
+		<test>hello</test>
 	</properties>
 	<dependencies>
 		<dependency>
