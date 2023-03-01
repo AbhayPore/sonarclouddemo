@@ -38,4 +38,3 @@ jobs:
   shared: 
    name: Shared Library Example
    uses: AbhayPore/sharedaction/.github/workflows/echo.yml@main
-   
